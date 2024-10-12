@@ -8,4 +8,4 @@ PandaSunshade is an enterprise specializing in greenhouse technology development
 
 ### Contact me
 
-[email@domain.com](mailto:contact@pandasunshade.com)
+[contact@pandasunshade.com](mailto:contact@pandasunshade.com)
