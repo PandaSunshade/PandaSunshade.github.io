@@ -18,17 +18,17 @@ avatar: https://avatars.githubusercontent.com/u/184722842?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email:contact@pandasunshade.com
+  facebook:PandaSunshade
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  github: PandaSunshade
+  instagram:PandaSunshade
+  linkedin:PandaSunshade
+  pinterest:PandaSunshade
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter:pandasunshade
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube:pandasunshade
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
